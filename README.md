@@ -17,6 +17,6 @@
 - 📝 [Medium Blog](https://medium.com/abhimanyu-bitsp)
 - 🔗 [Youtube](https://www.youtube.com/@AbhiDevManyu)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhimanyu-bitsp)
-- 📂 [My Portfolio](https://abhimanyubitsp.in/)
+- 📂 [Website](https://abhimanyubitsp.in/)
 
 ---
