@@ -1,7 +1,6 @@
 # Hi, I'm Abhimanyu 👋
 
 🚀 Software Developer | ⚙️ Engineer | 📜 Poet
-| 🏃 Fitness & Cycling Enthusiast
 
 ---
 
