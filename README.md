@@ -7,7 +7,8 @@
 ## 🌟 About Me
 
 - 🔧 4.5+ years of experience in developing features for a premium core banking solution at Edgeverve.
-- 📚 Spent the past few years immersed in preparing for the UPSC Civil Services Examination along with a full-time job — an intense experience that honed my analytical thinking, writing, discipline, and resilience.
+- 📚 🧭 I took a 5-year deep dive into the world of governance, philosophy, economics, and ethics through UPSC prep — and emerged more curious and mission-driven than ever.  
+Now I'm blending that macro perspective with my coding skills to build tech that matters.
 - 📚 I write poetry and blog occasionally.
 - 📚 I graduated with a Bachelor's degree in Computer Science from BITS Pilani (2020)
 - 📚 I also have a Master's degree in Political Science (2023) 
