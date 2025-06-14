@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Abhimanyu 👋
 
-<!--
-**ihba7991/ihba7991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | ⚙️ Engineer | 🧠 UPSC Aspirant  
+🖋️ Poet | 🏃 Fitness & Cycling Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🔧 4.5+ years experience in full-stack development
+- 📚 I write poetry and blog occasionally
+- 🚴 Training for a 10K run + love cycling on weekends
+- 🎯 Currently exploring AI/ML and fitness tech
+
+---
+
+## 🔗 Connect With Me
+
+- 📝 [Medium Blog](https://medium.com/abhimanyu-bitsp)
+- 🔗 [Youtube](https://www.youtube.com/@AbhiDevManyu)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhimanyu-bitsp)
+- 📂 [My Portfolio](https://abhimanyubitsp.in/)
+
+---
