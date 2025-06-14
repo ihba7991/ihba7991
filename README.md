@@ -9,7 +9,6 @@
 - 🔧 4.5+ years experience in full-stack development
 - 📚 I write poetry and blog occasionally
 - 🚴 Training for a 10K run + love cycling on weekends
-- 🎯 Currently exploring AI/ML and fitness tech
 
 ---
 
