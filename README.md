@@ -14,7 +14,7 @@
 
 ## 🔗 Connect With Me
 
-- 📝 [Medium Blog](https://medium.com/abhimanyu-bitsp)
+- 📝 [Medium Blog](https://abhimanyu-bitsp.medium.com/)
 - 🔗 [Youtube](https://www.youtube.com/@AbhiDevManyu)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhimanyu-bitsp)
 - 📂 [Website](https://abhimanyubitsp.in/)
