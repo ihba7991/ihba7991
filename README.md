@@ -16,10 +16,10 @@
 ---
 
 ## 🔗 Connect With Me
-
+- 📄 [Download My Resume](https://github.com/ihba7991/ihba7991/blob/main/Abhimanyu_Resume.pdf)
 - 📝 [Medium Blog](https://abhimanyu-bitsp.medium.com/)
-- 🔗 [Youtube](https://www.youtube.com/@AbhiDevManyu)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhimanyu-bitsp)
+- 🔗 [Youtube](https://www.youtube.com/@AbhiDevManyu)
 - 📂 [Website](https://abhimanyubitsp.in/)
 
 ---
