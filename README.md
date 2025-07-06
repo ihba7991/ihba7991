@@ -16,7 +16,6 @@
 ---
 
 ## 🔗 Connect With Me
-- 📄 [Download My Resume]
 - 📝 [Medium Blog](https://abhimanyu-bitsp.medium.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhimanyu-bitsp)
 - 🔗 [Youtube](https://www.youtube.com/@AbhiDevManyu)
