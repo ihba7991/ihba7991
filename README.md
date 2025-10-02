@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-- 🔧 4.5+ years of experience in developing features for a premium core banking solution at Edgeverve.
+- 🔧 5+ years of experience in developing features for a premium core banking solution at Edgeverve.
 - 💭 I write poetry and blog occasionally.
 - 🧑‍🎓 I graduated with a Bachelor's degree in Computer Science from BITS Pilani (2020)
 - 🎓 I also have a Master's degree in Political Science (2023) 
